@@ -1,0 +1,9 @@
+pyttsx3
+DateTime
+SpeechRecognition
+wikipedia
+smtplib
+PyAutoGUI
+psutil
+pyjokes
+requests
