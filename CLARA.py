@@ -72,7 +72,7 @@ def takecommand():
 #takecommand()
 
 def weatherforecast(city):
-    api_key = "0b3fe689bfbe4da4913510d0ee3799f8"
+    api_key = "Your_API_KEY"
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
     city_name = city
     complete_url = base_url + "appid=" + api_key + "&q=" + city_name
